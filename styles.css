@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.header{
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.contenedor{
+    background-color: rgb(171, 219, 219);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.cajaBoton{
+    padding-top: 10px;
+}
+.contendorLabel{
+    padding-top: 10px;
+}
